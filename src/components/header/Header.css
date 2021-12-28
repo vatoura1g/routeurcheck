@@ -1,0 +1,28 @@
+
+.down{
+    background-color: white;
+}
+
+Button {
+    background: transparent! important;
+    
+}
+.mov {
+    text-decoration:underline;
+}
+.me-2{
+    background: transparent! important ;
+}
+.list {
+    
+ 
+
+	float: left;
+	height: 300px;
+	width: 200px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+    padding-top:0;
+    margin-bottom: 0;
+    background: transparent !important;
+}
